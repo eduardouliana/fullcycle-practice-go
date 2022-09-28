@@ -4,8 +4,8 @@ import (
 	"database/sql"
 	"fmt"
 
-	"github.com/eduardouliana/fullcycle-practice-go/order/infra/database"
-	"github.com/eduardouliana/fullcycle-practice-go/order/usecase"
+	"github.com/eduardouliana/fullcycle-practice-go/internal/order/infra/database"
+	"github.com/eduardouliana/fullcycle-practice-go/internal/order/usecase"
 )
 
 func main() {

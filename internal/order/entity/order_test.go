@@ -3,7 +3,7 @@ package entity_test
 import (
 	"testing"
 
-	"github.com/eduardouliana/fullcycle-practice-go/order/entity"
+	"github.com/eduardouliana/fullcycle-practice-go/internal/order/entity"
 	"github.com/stretchr/testify/assert"
 )
 

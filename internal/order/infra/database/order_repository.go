@@ -3,7 +3,7 @@ package database
 import (
 	"database/sql"
 
-	"github.com/eduardouliana/fullcycle-practice-go/order/entity"
+	"github.com/eduardouliana/fullcycle-practice-go/internal/order/entity"
 	_ "github.com/go-sql-driver/mysql"
 )
 

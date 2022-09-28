@@ -1,6 +1,6 @@
 package usecase
 
-import "github.com/eduardouliana/fullcycle-practice-go/order/entity"
+import "github.com/eduardouliana/fullcycle-practice-go/internal/order/entity"
 
 type OrderInputDTO struct {
 	ID    string
